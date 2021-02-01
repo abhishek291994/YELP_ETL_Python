@@ -35,7 +35,7 @@ driver.py - Entry point for the application, contains parsing command line argum
 ```
 
 ## How to Run
-`python driver.py --term food --location Montreal --price 4` 
+`python driver.py --term food --location Boston --price 4` 
 
 
 ## Results
